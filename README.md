@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, I'm Ummuabdul!
 
-<!--
-**ummuabdul8861-tech/ummuabdul8861-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 InterLink Foundation Member from Abuja, Nigeria
 
-Here are some ideas to get you started:
+I am passionate about technology, learning, and building solutions that help my community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🔭 I'm currently learning: Git, GitHub & Tech Skills with InterLink Foundation
+- 👯 I'm looking to collaborate on: Open source and community projects
+- 💬 Ask me about: My journey in tech from Abuja
+- 📫 How to reach me: Connect with me on GitHub
+- ⚡ Fun fact: I am determined to grow in tech!
+
+### 🛠️ Skills
+- Learning Git & GitHub
+- Passion for Technology
+- Teamwork & Community Building
+
+---
+⭐️ From Abuja with ❤️ - InterLink Foundation 
